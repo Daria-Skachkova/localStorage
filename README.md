@@ -1,0 +1,1 @@
+- Javascript - using LocalStorage to count page visits
